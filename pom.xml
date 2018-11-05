@@ -8,5 +8,10 @@
     <artifactId>service-discovery-parent</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
+    <modules>
+        <module>common-api</module>
+        <module>consumer-hello</module>
+        <module>service-discovery-server</module>
+        <module>service-hello</module>
+    </modules>
 </project>
